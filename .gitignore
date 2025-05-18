@@ -5,3 +5,4 @@
 *.code-workspace
 /classifiers
 draft-scripts/
+*.txt
