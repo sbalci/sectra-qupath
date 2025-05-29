@@ -1,0 +1,33 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Using Sectra PACS Annotations in QuPath
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Serdar
+    family-names: Balci
+    email: serdarbalci@serdarbalci.com
+    orcid: 'https://orcid.org/0000-0002-7852-3851'
+identifiers:
+  - type: url
+    value: 'https://github.com/sbalci/sectra-qupath'
+    description: Repository
+  - type: doi
+    value: 10.5281/zenodo.15542395
+    description: Zenodo
+  - type: doi
+    value: 10.17605/OSF.IO/5KR7Q
+    description: OSF
+abstract: >-
+  This guide provides detailed instructions on how to
+  convert Sectra PACS annotations from DICOM files to
+  QuPath-compatible format and work with them effectively in
+  your pathology workflow.
+keywords:
+  - sectra
+  - QuPath
+  - annotation
