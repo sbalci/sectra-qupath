@@ -1,3 +1,10 @@
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15542395.svg)](https://doi.org/10.5281/zenodo.15542395)  
+
+[OSF DOI 10.17605/OSF.IO/5KR7Q](https://osf.io/5kr7q/)  
+
+
+
 # Using Sectra PACS Annotations in QuPath: A Comprehensive Guide
 
 This guide provides detailed instructions on how to convert Sectra PACS annotations from DICOM files to QuPath-compatible format and work with them effectively in your pathology workflow.
