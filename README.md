@@ -1,13 +1,22 @@
+# Using Sectra PACS Annotations in QuPath: A Comprehensive Guide
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15542395.svg)](https://doi.org/10.5281/zenodo.15542395)  
 
 [OSF DOI 10.17605/OSF.IO/5KR7Q](https://osf.io/5kr7q/)  
 
+![QuPath](https://img.shields.io/badge/QuPath-0.6%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Digital Pathology](https://img.shields.io/badge/Digital%20Pathology-Workflow-orange)
+
+## Acknowledgments
+
+This project was developed with the assistance of [Claude](https://www.anthropic.com/claude), an AI assistant by Anthropic.
+
+[![Developed with Claude](https://img.shields.io/badge/🤖Developed%20with-Claude%20AI-orange)](https://www.anthropic.com/claude)
 
 
-# Using Sectra PACS Annotations in QuPath: A Comprehensive Guide
 
-This guide provides detailed instructions on how to convert Sectra PACS annotations from DICOM files to QuPath-compatible format and work with them effectively in your pathology workflow.
+**This guide provides detailed instructions on how to convert Sectra PACS annotations from DICOM files to QuPath-compatible format and work with them effectively in your pathology workflow.**
 
 ## Overview
 
